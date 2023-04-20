@@ -2,7 +2,7 @@ Algoritmo "Calculo_Fibonacci"
 //  
 //  
 // Descrição   : Sequência de Fibonacci (Apresentando 13 números)
-// Autor(a)    : Samuel Tavares Mendes Oliveria
+// Autor(a)    : Samuel Tavares
 // Data atual  : 20/04/2023
 Var
    Repeticao,Numero1,Numero2,Numero3: Inteiro

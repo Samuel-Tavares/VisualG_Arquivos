@@ -1,6 +1,6 @@
 Algoritmo "CALCULADORA_IMC"
 // Descrição   : Calculando IMC
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Samuel Tavares
 // Data atual  : 20/04/2023
 Var
    Peso, Altura, IMC: Real

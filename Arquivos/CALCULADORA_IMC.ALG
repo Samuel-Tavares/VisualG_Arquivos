@@ -1,6 +1,4 @@
 Algoritmo "CALCULADORA_IMC"
-//  
-//  
 // Descrição   : Calculando IMC
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 20/04/2023

@@ -1,5 +1,8 @@
-Neste repositório contêm pseudocódigos em Portugol que utilizei em meus
-estudos de lógica de programação. O intuito é disponibilizar para que
-outros estudantes utilizem em suas pesquisas/práticas e estudos em geral.
+Aqui estão alguns dos pseudocógidos utilizados durante
+meus estudos em lógica de programação através do
+portugol. Em algum momento posso vir aqui e atualizar
+com algo novo caso queira treinar sem uma línguagem
+específica.
 
-Além disso, mantê-los para que me lembre deste início de minha jornada!
+Além disso, manter hospedados esses exercícios que
+fazem parte do início de minha jornada.
